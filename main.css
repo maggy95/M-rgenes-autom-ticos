@@ -1,0 +1,17 @@
+div{
+	border:10px solid yellow;
+	text-align: center;
+	width: 150px;
+	height: 100px;
+	font-size: 10px;
+	margin-top: auto;
+margin-right: 50px;
+padding: 30px;
+
+}/* Escribe aqui tu CSS */
+
+
+.c{
+	margin: auto;
+	margin-left: 400px;
+}
